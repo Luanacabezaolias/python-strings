@@ -117,6 +117,11 @@ for i in range(len(lista)):
         lista[i] = 0
 print(lista)
 
+# concatenação (juntar listas)
+lista1 = [3, 7, 5, 10, 5]
+lista2 = ['Lu', 'Anny', 'Camis', 'Lety']
+lista3= lista1 + lista2
+print(lista)
 
 
 
